@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CullyDesigns
-- 👀 I’m interested in data science and algorithmic trading
-- 🌱 I’m currently learning data visualization and data aggregation
-- 💞️ I’m looking to collaborate on analytic report models
+- 👀 I’m interested in Python and Django
 - 📫 How to reach me cullydesigns@gmail.com
 
 <!---
